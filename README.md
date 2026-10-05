@@ -11,16 +11,16 @@
 
 ---
 
-## 🚀 What I'm up to
+## What I'm up to
 
-- 🔭 Working on **[Penny Tracker](https://github.com/bharathrajm-2005/penny-tracker)**
-- 🌱 Learning **React** and **Spring Boot**
-- 📄 [View my resume](https://bharathrajm.netlify.app/assets/certificates/Copy%20of%20Bharath%20Raj%20M%20Resume%202026%20updated%20(4).pdf)
-- 📫 Reach me at **mbharathrajcw@gmail.com**
+- Working on **[Penny Tracker](https://github.com/bharathrajm-2005/penny-tracker)**
+- Learning **React** and **Spring Boot**
+- [View my resume](https://bharathrajm.netlify.app/assets/certificates/Copy%20of%20Bharath%20Raj%20M%20Resume%202026%20updated%20(4).pdf)
+- Reach me at **mbharathrajcw@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -67,13 +67,15 @@
       <p>A web app I built to practise data structures and algorithms for college placements, alongside my daily LeetCode grind.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
       <a href="https://github.com/bharathrajm-2005/dsa-phase-1-practice">Repo</a>
+      <br>
+      <a href="https://java-dsa-practice.netlify.app">Site</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧩 LeetCode
+##  LeetCode
 
 <div align="center">
 
@@ -105,7 +107,7 @@
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 <div align="center">
 
