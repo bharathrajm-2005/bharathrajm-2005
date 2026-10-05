@@ -52,7 +52,7 @@
       <h3>💸 Penny Tracker</h3>
       <p>One-line description of what it does and the problem it solves.</p>
       <p><b>Tech:</b> React · Spring Boot · MySQL</p>
-      <a href="https://github.com/bharathrajm-2005/penny-tracker">Repo</a> · <a href="#">Live demo</a>
+      <a href="https://github.com/bharathrajm-2005/penny-tracker">Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 Trustistics</h3>
@@ -66,9 +66,8 @@
       <h3>🧠 DSA Practice - Placement Prep</h3>
       <p>A web app I built to practise data structures and algorithms for college placements, alongside my daily LeetCode grind.</p>
       <p><b>Tech:</b> HTML · CSS · JavaScript</p>
-      <a href="https://github.com/bharathrajm-2005/dsa-phase-1-practice">Repo</a>
-      <br>
-      <a href="https://java-dsa-practice.netlify.app">Site</a>
+      <a href="https://github.com/bharathrajm-2005/dsa-phase-1-practice">Repo</a>  
+      <a href="https://java-dsa-practice.netlify.app">    Site</a>
     </td>
   </tr>
 </table>
