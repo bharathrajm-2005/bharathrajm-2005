@@ -55,10 +55,10 @@
       <a href="https://github.com/bharathrajm-2005/penny-tracker">Repo</a> · <a href="#">Live demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚧 Project Two</h3>
-      <p>One-line description goes here.</p>
-      <p><b>Tech:</b> add your stack</p>
-      <a href="#">Repo</a> · <a href="#">Live demo</a>
+      <h3>📦 Trustistics</h3>
+      <p>Blockchain-powered cold-chain provenance. IoT sensor readings and shipment documents are SHA-256 hashed and anchored on Ethereum, so temperature data can't be edited after the fact. Anyone can audit a shipment by scanning its QR code.</p>
+      <p><b>Tech:</b> React · TypeScript · FastAPI · MongoDB · Solidity · Hardhat</p>
+      <a href="#">Repo</a>
     </td>
   </tr>
 </table>
@@ -73,10 +73,6 @@
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bharathrajm-2005&theme=tokyonight&hide_border=true&layout=compact" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=bharathrajm-2005&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=bharathrajm-2005&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathrajm-2005&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
