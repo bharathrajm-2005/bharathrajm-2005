@@ -61,7 +61,34 @@
       <a href="#">Repo</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧠 DSA Practice - Placement Prep</h3>
+      <p>A web app I built to practise data structures and algorithms for college placements, alongside my daily LeetCode grind.</p>
+      <p><b>Tech:</b> HTML · CSS · JavaScript</p>
+      <a href="https://github.com/bharathrajm-2005/dsa-phase-1-practice">Repo</a>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+![Solved](https://img.shields.io/badge/Solved-359-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Easy](https://img.shields.io/badge/Easy-176-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-158-FFC01E?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-25-EF4743?style=for-the-badge)
+![Max Streak](https://img.shields.io/badge/Max%20Streak-39%20days-2CBB5D?style=for-the-badge)
+![Rating](https://img.shields.io/badge/Contest%20Rating-1414-0e75b6?style=for-the-badge)
+
+<a href="https://leetcode.com/u/bharath_1005/">
+  <img src="https://leetcard.jacoblin.cool/bharath_1005?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" width="90%" />
+</a>
+
+</div>
 
 ---
 
@@ -89,7 +116,7 @@
 
 **Coding profiles**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/bharath_1005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bharath_1005/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/factorialtimecomplexity)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/mbharathrajcw)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bharathrajmcse)
